@@ -1,0 +1,74 @@
+{
+  "symptom_disease_mapping": [
+    {
+      "symptoms": "fever, cough, sore throat, runny nose",
+      "disease": "Common Cold",
+      "severity": "mild",
+      "treatment": "Rest, plenty of fluids, over-the-counter cold medications",
+      "escalation_criteria": "If symptoms persist beyond 7 days or fever exceeds 101°F"
+    },
+    {
+      "symptoms": "fever, body aches, fatigue, cough",
+      "disease": "Influenza",
+      "severity": "moderate",
+      "treatment": "Rest, antiviral medications if prescribed, fever reducers",
+      "escalation_criteria": "Difficulty breathing, chest pain, severe weakness"
+    },
+    {
+      "symptoms": "severe headache, fever, neck stiffness, confusion",
+      "disease": "Meningitis",
+      "severity": "severe",
+      "treatment": "Immediate hospitalization required",
+      "escalation_criteria": "Immediate medical attention needed"
+    },
+    {
+      "symptoms": "stomach pain, diarrhea, nausea, vomiting",
+      "disease": "Gastroenteritis",
+      "severity": "moderate",
+      "treatment": "Oral rehydration, rest, bland diet",
+      "escalation_criteria": "Severe dehydration, bloody stools, persistent vomiting"
+    },
+    {
+      "symptoms": "chest pain, shortness of breath, sweating",
+      "disease": "Possible Heart Attack",
+      "severity": "severe",
+      "treatment": "Immediate emergency care required",
+      "escalation_criteria": "Immediate hospitalization"
+    },
+    {
+      "symptoms": "high fever, cough, difficulty breathing",
+      "disease": "Pneumonia",
+      "severity": "severe",
+      "treatment": "Antibiotics, rest, oxygen therapy if needed",
+      "escalation_criteria": "Difficulty breathing, chest pain, high fever"
+    },
+    {
+      "symptoms": "itching, rash, skin redness",
+      "disease": "Allergic Reaction",
+      "severity": "mild",
+      "treatment": "Antihistamines, avoid allergen, topical creams",
+      "escalation_criteria": "Difficulty breathing, swelling of face or throat"
+    },
+    {
+      "symptoms": "joint pain, swelling, stiffness, warmth",
+      "disease": "Arthritis",
+      "severity": "moderate",
+      "treatment": "Pain relievers, physical therapy, rest",
+      "escalation_criteria": "Severe pain, inability to move joint, fever"
+    },
+    {
+      "symptoms": "frequent urination, burning sensation, lower abdominal pain",
+      "disease": "Urinary Tract Infection",
+      "severity": "moderate",
+      "treatment": "Antibiotics, increased fluid intake",
+      "escalation_criteria": "Fever, back pain, blood in urine"
+    },
+    {
+      "symptoms": "headache, sensitivity to light, nausea",
+      "disease": "Migraine",
+      "severity": "moderate",
+      "treatment": "Pain relievers, rest in dark room, stay hydrated",
+      "escalation_criteria": "Worst headache ever, confusion, speech problems"
+    }
+  ]
+}
